@@ -3,7 +3,7 @@
 ## Videos
 
 * [ELK 간단 실행] - 영상편집중(~2020.11.29)
-* <img src="elk-kibana001.png" width="600" style="display:block;"><br/>
+ <img src="elk-kibana001.png" width="600" style="display:block;"><br/>
 
 * [ELK nginx 모니터링] - 영상편집중(~2020.11.29)
 
