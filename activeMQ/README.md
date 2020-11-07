@@ -2,7 +2,7 @@
 
 ## Videos
 
-* [ActiveMQ 실행 및 ELK 모니터링] - 영상편집중
+* [ActiveMQ 실행 및 ELK 모니터링] - 영상편집중(~2020.11.29)
 
 ## Reference
 

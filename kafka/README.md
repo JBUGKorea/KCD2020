@@ -2,8 +2,8 @@
 
 ## Videos
 
-* [Apache Kafka 간단실행] - 영상편집중
-* [ELK kafka 모니터링] - 영상편집중
+* [Apache Kafka 간단실행] - 영상편집중(~2020.11.29)
+* [ELK kafka 모니터링] - 영상편집중(~2020.11.29)
 
 ## Reference
 

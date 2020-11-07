@@ -4,8 +4,8 @@
 
 ### Video
 
-* [GraalVM Example] - 영상편집중
-* [GraalVM Vertx] - 영상편집중
+* [GraalVM Example] - 영상편집중(~2020.11.29)
+* [GraalVM Vertx] - 영상편집중(~2020.11.29)
 
 ### Reference
 
