@@ -1,4 +1,5 @@
 # KCD2020
-KCD2020 repo
 
-5. Redis
+## Reference
+
+* [ELK metricbeat Redis module](https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-module-redis.html)

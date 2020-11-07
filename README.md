@@ -1,6 +1,6 @@
 # KCD2020
 
-- Graal로 둘러버는 Message Queue
+- Graal로 둘러보는 Message Queue
 
 ## Contents
 
